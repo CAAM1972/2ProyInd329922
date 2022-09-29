@@ -32,4 +32,8 @@ Variación precio %: corresponde al porcentaje en que el precio varía, entre ca
 
 Pizzas Disponibles: corresponde a un indicador lúdico del precio del BTC/USD, para ser utilizado en Storytelling.
 
-La data descargada de la API, para las diferentes criptomonedas está completa y además se actualiza en Power BI, a requerimiento, sin ningún tipo de problemas
+La data descargada de la API, para las diferentes criptomonedas está completa y además se actualiza en Power BI, a requerimiento, sin ningún tipo de problemas.
+
+
+
+Escrito por: Cristian Alvarez Morales
