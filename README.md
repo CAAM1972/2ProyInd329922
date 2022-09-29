@@ -31,3 +31,5 @@ Meses transcurridos: tiempo en meses transcurridos, entre cada evento de subida 
 Variación precio %: corresponde al porcentaje en que el precio varía, entre cada uno de los eventos importantes de movimiento en este.
 
 Pizzas Disponibles: corresponde a un indicador lúdico del precio del BTC/USD, para ser utilizado en Storytelling.
+
+La data descargada de la API, para las diferentes criptomonedas está completa y además se actualiza en Power BI, a requerimiento, sin ningún tipo de problemas
